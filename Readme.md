@@ -11,3 +11,5 @@
 - use netstat -atp (this lists a-  (all) t - (tcp6 and tcp) and p - (PID) )
 
 - use netstat -atp | grep {keyword} 
+
+- use netstat -h  (or) man netstat ; for further help 
