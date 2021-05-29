@@ -13,3 +13,7 @@
 - use netstat -atp | grep {keyword} 
 
 - use netstat -h  (or) man netstat ; for further help 
+
+### How to check all the configuration of the pc on linux
+
+- use pfetch or neofetch (pfetch is a ligher version of neofetch)
