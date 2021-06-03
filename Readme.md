@@ -17,3 +17,8 @@
 ### How to check all the configuration of the pc on linux
 
 - use pfetch or neofetch (pfetch is a ligher version of neofetch)
+
+### Suddenly on termial i ran the command import {something} before opening the python shell so now my cursor changed to thick plus and all my mouse click are dead so i used this command
+
+- killall -KILL import
+
